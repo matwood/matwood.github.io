@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Path to Discipline"
-date: 2018-12-15
-categories: discipline productivity
+date: 2018-12-15T00:00:00Z
+categories:
+  - discipline
+  - productivity
 ---
 
 About 6 months ago I came across [Jocko Willink](https://twitter.com/jockowillink) on Twitter. He is an ex-Navy Seal with a straight forward approach to life and leadership. I do not remember exactly how I stumbled across him, but I immediately consume much of his Twitter feed. His no-nonsense approach to discipline resonated with me.

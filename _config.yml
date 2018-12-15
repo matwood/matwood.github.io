@@ -18,16 +18,18 @@ email: michael].[atwood]+blog@[gmail].[com] (Remove the brackets)
 description: >- # this means to ignore newlines until "baseurl:"
   The ramblings of a person trying to improve.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://thepensiveprogrammer.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mdatwood
 github_username: matwood
-google_analytics: UA-7832925-1
+# google_analytics: UA-7832925-1
 
 # Build settings
 markdown: kramdown
 theme: minima
 # Enable excerpts for minima
 show_excerpts: true
+permalink: pretty
+
 plugins:
   - jekyll-feed
 # Exclude from processing.
