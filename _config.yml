@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Pensive Programmer
-email: [michael].[atwood]+blog@[gmail].[com]
+email: michael].[atwood]+blog@[gmail].[com] (Remove the brackets)
 description: >- # this means to ignore newlines until "baseurl:"
   The ramblings of a person trying to improve.
 baseurl: "" # the subpath of your site, e.g. /blog
