@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AWS SFTP Transfer with a Custom Identity Provider"
-date: 2018-12-15
+date: 2018-12-15T01:00:00Z
 categories:
   - aws
 ---
