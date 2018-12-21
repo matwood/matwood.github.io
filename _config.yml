@@ -29,6 +29,7 @@ theme: minima
 # Enable excerpts for minima
 show_excerpts: true
 permalink: pretty
+excerpt_separator: <!--more-->
 
 plugins:
   - jekyll-feed
